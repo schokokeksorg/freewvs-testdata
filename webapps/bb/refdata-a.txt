@@ -1,0 +1,12 @@
+DeluxeBB 1.3 () CVE-2010-4151 [dir]/bb/deluxebb1_3.zip-src
+FluxBB 1.5.11 (ok)  [dir]/bb/fluxbb-1.5.11.tar.bz2-src/fluxbb-1.5.11
+MyBB 1.8.21 (ok)  [dir]/bb/mybb_1821.zip-src/Upload
+Phorum 5.2.23 (ok)  [dir]/bb/phorum-5.2.23.tar.gz-src/Core-phorum_5_2_23
+phpBB 2.0.11 (3.2.8) CVE-2019-16108 [dir]/bb/phpBB-2.0.11.tar.bz2-src/phpBB2
+phpBB 3.2.9 (ok)  [dir]/bb/phpBB-3.2.8.tar.bz2-src/phpBB3
+PunBB 1.2.23 (1.4.1) https://secunia.com/advisories/46864 [dir]/bb/punbb-1.2.23.tar.bz2-src/punbb-1.2.23/upload
+PunBB 1.3.6 (1.4.1) https://secunia.com/advisories/46864 [dir]/bb/punbb-1.3.6.tar.gz-src/punbb-1.3.6/admin
+PunBB 1.4.4 (ok)  [dir]/bb/punbb-1.4.4.tar.bz2-src/punbb-1.4.4/admin
+SimpleMachinesForum 2.0.15 (ok)  [dir]/bb/smf_2-0-15_install.tar.bz2-src
+UseBB 1.0.16 () https://github.com/usebb/UseBB/commit/403718a1c34b0906b0c2b874794b1456c81c4a63 [dir]/bb/UseBB-1.0.16.tar.gz-src/UseBB-1.0.16
+Vanilla 3.3 (ok)  [dir]/bb/vanilla-core-3-3.zip-src/package

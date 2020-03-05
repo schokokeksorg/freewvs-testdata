@@ -1,0 +1,1 @@
+litecart 2.2.1 (2.2.2) CVE-2020-9018 [dir]/webshop/litecart-2.2.1.zip-src/public_html

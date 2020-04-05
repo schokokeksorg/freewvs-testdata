@@ -1,5 +1,5 @@
-Wordpress 5.4 (ok)  [dir]/wordpress-5.4.tar.gz-src/wordpress
-Wordpress-Akismet 4.1.4 (ok)  [dir]/wordpress-5.4.tar.gz-src/wordpress/wp-content/plugins/akismet
-Wordpress 2.3.3 (3.7.32) https://wordpress.org/news/2019/12/wordpress-5-3-1-security-and-maintenance-release/ [dir]/wordpress-2.3.3-de_DE.tar.gz-src/wordpress
-ClassicPress 1.1.2 (ok)  [dir]/ClassicPress-release-1.1.2.zip-src/ClassicPress-release-1.1.2
-Wordpress-Theme-Twentyfifteen 2.0 (ok)  [dir]/ClassicPress-release-1.1.2.zip-src/ClassicPress-release-1.1.2/wp-content/themes/twentyfifteen
+Wordpress 5.4 (ok)  [dir]/blog/wordpress-5.4.tar.gz-src/wordpress
+Wordpress-Akismet 4.1.4 (ok)  [dir]/blog/wordpress-5.4.tar.gz-src/wordpress/wp-content/plugins/akismet
+Wordpress 2.3.3 (3.7.32) https://wordpress.org/news/2019/12/wordpress-5-3-1-security-and-maintenance-release/ [dir]/blog/wordpress-2.3.3-de_DE.tar.gz-src/wordpress
+ClassicPress 1.1.2 (ok)  [dir]/blog/ClassicPress-release-1.1.2.zip-src/ClassicPress-release-1.1.2
+Wordpress-Theme-Twentyfifteen 2.0 (ok)  [dir]/blog/ClassicPress-release-1.1.2.zip-src/ClassicPress-release-1.1.2/wp-content/themes/twentyfifteen

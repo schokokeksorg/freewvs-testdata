@@ -1,0 +1,6 @@
+TYPO3 9.5.16 (ok)  [dir]cms/typo3_src-9.5.16.tar.gz-src/typo3_src-9.5.16/typo3
+TYPO3 8.7.3 (8.7.27) CVE-2019-12747 [dir]cms/typo3_src-8.7.3.tar.gz-src/typo3_src-8.7.3/typo3
+TYPO3 7.6.18 (8.7.27) CVE-2019-12747 [dir]cms/typo3_src-7.6.18.tar.gz-src/typo3_src-7.6.18/typo3
+TYPO3 6.1.9 (8.7.27) CVE-2019-12747 [dir]cms/typo3_src-6.1.9.tar.gz-src/typo3_src-6.1.9/typo3
+TYPO3 4.7.13 (8.7.27) CVE-2019-12747 [dir]cms/typo3_src-4.7.13.tar.gz-src/typo3_src-4.7.13
+TYPO3 10.4.1 (ok)  [dir]cms/typo3_src-10.4.1.tar.gz-src/typo3_src-10.4.1/typo3

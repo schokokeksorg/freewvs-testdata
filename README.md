@@ -6,3 +6,6 @@ tool [freewvs](https://source.schokokeks.org/freewvs/).
 
 The applications are under a variety of licenses that all allow redistribution.
 If you use any of them please refer to their respective licenses.
+
+The misc subdirectory contains a few files checking unusual situations,
+all data in there is CC0.

@@ -3,3 +3,5 @@ MediaWiki 1.34.1 [dir]/misc/mediawiki-1.34.1.tar.gz-src/mediawiki-1.34.1
 phpMyAdmin 3.3.10.1 [dir]/misc/phpMyAdmin-3.3.10.1-english.tar.xz-src/phpMyAdmin-3.3.10.1-english
 phpMyAdmin 4.7.9 [dir]/misc/phpMyAdmin-4.7.9-english.tar.xz-src/phpMyAdmin-4.7.9-english
 phpMyAdmin 5.1.1 [dir]/misc/phpMyAdmin-5.1.1-english.tar.xz-src/phpMyAdmin-5.1.1-english
+Gitlist 0.6.0 [dir]/misc/gitlist-0.6.0.tar.gz-src/gitlist
+Gitlist 2.0.0 [dir]/misc/gitlist-2.0.0.zip-src
